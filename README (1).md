@@ -1,7 +1,7 @@
 # Philippine History Quiz (Tkinter)
 
-**Name:** [Your Full Name]
-**Section:** [Your Section]
+**Name:** John David I. Dalawis
+**Section:** SE-3A
 **Topic:** Philippine History
 
 A desktop quiz game made with Python Tkinter. It has 10 multiple-choice questions, a 15-second timer for each question, a results screen with an answer review, a high score saved in a text file, and a Restart button. The colors are blue, red and yellow, like the Philippine flag.
